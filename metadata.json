@@ -1,0 +1,6 @@
+{
+  "name": "FRX EN - Bizz War Contract Community",
+  "description": "FRX EN is a Bizz War Contract Community built for organized contracts, competitive events, and strong team coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
